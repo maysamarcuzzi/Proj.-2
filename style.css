@@ -1,3 +1,12 @@
+:root{
+    --cor-primaria: #451123;
+    --cor-secundaria: #812b49;
+    --cor-fundo: #E6ACC9;
+    --cor-texto: #2f0816;
+    --cor-contraste: #f3eef7;
+    --cor-botao: #f9f9f9;
+}
+
 body{
     max-width: 100vw;
 }
