@@ -7,6 +7,15 @@
     --cor-botao: #f9f9f9;
 }
 
+.tema-escuro {
+ --cor-primaria: #e2a2b8;
+    --cor-secundaria: #865466;
+    --cor-fundo: #b65a88;
+    --cor-texto: #efc5d4;
+    --cor-contraste: #160326;
+    --cor-botao: #300909;
+}
+
 body{
     max-width: 100vw;
 }
